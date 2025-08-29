@@ -1,0 +1,5 @@
+age,income,tenure_months,city,plan,churn
+25,45000,12,Bengaluru,Basic,1
+40,70000,36,Pune,Plus,0
+55,120000,72,Delhi,Pro,0
+30,38000,6,Hyderabad,Basic,1
