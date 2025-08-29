@@ -7,8 +7,7 @@ import seaborn as sns
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report
-
-    st.set_page_config(page_title='AI Analytics Assistant', layout='wide')
+st.set_page_config(page_title='AI Analytics Assistant', layout='wide')
 
     # ----------------- Utilities -----------------
     def basic_cleaning(df):
