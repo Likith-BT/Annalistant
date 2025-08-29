@@ -1,12 +1,12 @@
-    import streamlit as st
-    import pandas as pd
-    import numpy as np
-    import io, os, time
-    import matplotlib.pyplot as plt
-    import seaborn as sns
-    from sklearn.model_selection import train_test_split
-    from sklearn.ensemble import RandomForestClassifier
-    from sklearn.metrics import accuracy_score, classification_report
+import streamlit as st
+import pandas as pd
+import numpy as np
+import io, os, time
+import matplotlib.pyplot as plt
+import seaborn as sns
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import accuracy_score, classification_report
 
     st.set_page_config(page_title='AI Analytics Assistant', layout='wide')
 
